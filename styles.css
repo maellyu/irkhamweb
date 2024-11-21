@@ -13,7 +13,7 @@ body {
 }
 
 .hero {
-    background: linear-gradient(135deg, #282c34, #61dafb);
+    background: linear-gradient(135deg, #1b2842, #36f040, #122558 );
     color: white;
     padding: 50px 0;
     animation: fadeIn 1s ease-in-out; /* Fade-in animation for hero */
@@ -50,7 +50,7 @@ h1 {
 button {
     margin-top: 10px;
     padding: 10px 20px;
-    background-color: #61dafb;
+    background-color: #0e6302b6;
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -70,7 +70,7 @@ button i {
 
 /* Button Hover Effect */
 button:hover {
-    background-color: #21a1f1;
+    background-color: #52f121;
     transform: scale(1.05); /* Scale up the button on hover */
 }
 
